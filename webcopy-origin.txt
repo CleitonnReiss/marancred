@@ -1,0 +1,636 @@
+Uri: https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/themes/smoothness/images/ui-bg_flat_0_aaaaaa_40x100.png
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\ajax\libs\jqueryui\1.11.2\themes\smoothness\images\ui-bg_flat_0_aaaaaa_40x100.png
+Content Type: image/png
+
+Uri: https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/themes/smoothness/images/ui-bg_flat_75_ffffff_40x100.png
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\ajax\libs\jqueryui\1.11.2\themes\smoothness\images\ui-bg_flat_75_ffffff_40x100.png
+Content Type: image/png
+
+Uri: https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/themes/smoothness/images/ui-bg_glass_55_fbf9ee_1x400.png
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\ajax\libs\jqueryui\1.11.2\themes\smoothness\images\ui-bg_glass_55_fbf9ee_1x400.png
+Content Type: image/png
+
+Uri: https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/themes/smoothness/images/ui-bg_glass_65_ffffff_1x400.png
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\ajax\libs\jqueryui\1.11.2\themes\smoothness\images\ui-bg_glass_65_ffffff_1x400.png
+Content Type: image/png
+
+Uri: https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/themes/smoothness/images/ui-bg_glass_75_dadada_1x400.png
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\ajax\libs\jqueryui\1.11.2\themes\smoothness\images\ui-bg_glass_75_dadada_1x400.png
+Content Type: image/png
+
+Uri: https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/themes/smoothness/images/ui-bg_glass_75_e6e6e6_1x400.png
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\ajax\libs\jqueryui\1.11.2\themes\smoothness\images\ui-bg_glass_75_e6e6e6_1x400.png
+Content Type: image/png
+
+Uri: https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/themes/smoothness/images/ui-bg_glass_95_fef1ec_1x400.png
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\ajax\libs\jqueryui\1.11.2\themes\smoothness\images\ui-bg_glass_95_fef1ec_1x400.png
+Content Type: image/png
+
+Uri: https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/themes/smoothness/images/ui-bg_highlight-soft_75_cccccc_1x100.png
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\ajax\libs\jqueryui\1.11.2\themes\smoothness\images\ui-bg_highlight-soft_75_cccccc_1x100.png
+Content Type: image/png
+
+Uri: https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/themes/smoothness/images/ui-icons_222222_256x240.png
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\ajax\libs\jqueryui\1.11.2\themes\smoothness\images\ui-icons_222222_256x240.png
+Content Type: image/png
+
+Uri: https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/themes/smoothness/images/ui-icons_2e83ff_256x240.png
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\ajax\libs\jqueryui\1.11.2\themes\smoothness\images\ui-icons_2e83ff_256x240.png
+Content Type: image/png
+
+Uri: https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/themes/smoothness/images/ui-icons_454545_256x240.png
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\ajax\libs\jqueryui\1.11.2\themes\smoothness\images\ui-icons_454545_256x240.png
+Content Type: image/png
+
+Uri: https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/themes/smoothness/images/ui-icons_888888_256x240.png
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\ajax\libs\jqueryui\1.11.2\themes\smoothness\images\ui-icons_888888_256x240.png
+Content Type: image/png
+
+Uri: https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/themes/smoothness/images/ui-icons_cd0a0a_256x240.png
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\ajax\libs\jqueryui\1.11.2\themes\smoothness\images\ui-icons_cd0a0a_256x240.png
+Content Type: image/png
+
+Uri: https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/themes/smoothness/jquery-ui.css?ver=6.1.1
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\ajax\libs\jqueryui\1.11.2\themes\smoothness\jquery-ui.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Poppins:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Montserrat:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=auto&ver=6.1.1
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXh0ow.ttf
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\s\montserrat\v25\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6WXh0ow.ttf
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\s\montserrat\v25\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9WXh0ow.ttf
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\s\montserrat\v25\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8WXh0ow.ttf
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\s\montserrat\v25\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXh0ow.ttf
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\s\montserrat\v25\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16WXh0ow.ttf
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\s\montserrat\v25\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6WXh0ow.ttf
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\s\montserrat\v25\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9WXh0ow.ttf
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\s\montserrat\v25\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9WXh0ow.ttf
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\s\montserrat\v25\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw5aX8.ttf
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw5aX8.ttf
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aX8.ttf
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w5aX8.ttf
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw5aX8.ttf
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w5aX8.ttf
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiAyp8kv8JHgFVrJJLmE0tCMPc.ttf
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\s\poppins\v20\pxiAyp8kv8JHgFVrJJLmE0tCMPc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLBT5Z1xlEA.ttf
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\s\poppins\v20\pxiByp8kv8JHgFVrLBT5Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\s\poppins\v20\pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\s\poppins\v20\pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\s\poppins\v20\pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\s\poppins\v20\pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLFj_Z1xlEA.ttf
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\s\poppins\v20\pxiByp8kv8JHgFVrLFj_Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\s\poppins\v20\pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLm111VF9eL.ttf
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\s\poppins\v20\pxiDyp8kv8JHgFVrJJLm111VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLm21lVF9eL.ttf
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\s\poppins\v20\pxiDyp8kv8JHgFVrJJLm21lVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLm81xVF9eL.ttf
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\s\poppins\v20\pxiDyp8kv8JHgFVrJJLm81xVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmg1hVF9eL.ttf
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmg1hVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmr19VF9eL.ttf
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmr19VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmv1pVF9eL.ttf
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmv1pVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmy15VF9eL.ttf
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmy15VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJfedw.ttf
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\s\poppins\v20\pxiEyp8kv8JHgFVrJJfedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiGyp8kv8JHgFVrJJLucHtF.ttf
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\s\poppins\v20\pxiGyp8kv8JHgFVrJJLucHtF.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiGyp8kv8JHgFVrLPTucHtF.ttf
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\s\poppins\v20\pxiGyp8kv8JHgFVrLPTucHtF.ttf
+Content Type: font/ttf
+
+Uri: https://inss.hackeandoconsignado.com.br/
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\index.htm
+Content Type: text/html
+
+Uri: https://inss.hackeandoconsignado.com.br/comments/feed/
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://inss.hackeandoconsignado.com.br/feed/
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.7.3
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-content\plugins\elementor\assets\css\frontend-lite.min.css
+Content Type: text/css
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-content/plugins/elementor/assets/css/widget-icon-box.min.css
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-content\plugins\elementor\assets\css\widget-icon-box.min.css
+Content Type: text/css
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.7.3
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/x-javascript
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.7.3
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/x-javascript
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.7.3
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/x-javascript
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.7.3
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-content\plugins\elementor\assets\lib\animations\animations.min.css
+Content Type: text/css
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.16.0
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-content\plugins\elementor\assets\lib\eicons\css\elementor-icons.min.css
+Content Type: text/css
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.16.0
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.16.0
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.svg
+Content Type: image/svg+xml
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.16.0
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.16.0
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff2
+Content Type: font/woff2
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.16.0
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff
+Content Type: application/font-woff
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-content\plugins\elementor\assets\lib\font-awesome\css\brands.min.css
+Content Type: text/css
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-content\plugins\elementor\assets\lib\font-awesome\css\fontawesome.min.css
+Content Type: text/css
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-content\plugins\elementor\assets\lib\font-awesome\css\solid.min.css
+Content Type: text/css
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot?
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.svg
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.ttf
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff
+Content Type: application/font-woff
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot?
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.svg
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff
+Content Type: application/font-woff
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=2.8.5
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-content\plugins\elementor\assets\lib\swiper\swiper.min.js
+Content Type: application/x-javascript
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min.js
+Content Type: application/x-javascript
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-content/plugins/elementskit-lite/libs/framework/assets/js/frontend-script.js?ver=2.8.5
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-content\plugins\elementskit-lite\libs\framework\assets\js\frontend-script.js
+Content Type: application/x-javascript
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-content/plugins/elementskit-lite/modules/elementskit-icon-pack/assets/css/ekiticons.css?ver=2.8.5
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-content\plugins\elementskit-lite\modules\elementskit-icon-pack\assets\css\ekiticons.css
+Content Type: text/css
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-content/plugins/elementskit-lite/modules/elementskit-icon-pack/assets/fonts/elementskit.woff?y24e1e
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-content\plugins\elementskit-lite\modules\elementskit-icon-pack\assets\fonts\elementskit.woff
+Content Type: application/font-woff
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-content/plugins/elementskit-lite/widgets/init/assets/css/responsive.css?ver=2.8.5
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-content\plugins\elementskit-lite\widgets\init\assets\css\responsive.css
+Content Type: text/css
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-content/plugins/elementskit-lite/widgets/init/assets/css/widget-styles.css?ver=2.8.5
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-content\plugins\elementskit-lite\widgets\init\assets\css\widget-styles.css
+Content Type: text/css
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-content/plugins/elementskit-lite/widgets/init/assets/img/arrow.png
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-content\plugins\elementskit-lite\widgets\init\assets\img\arrow.png
+Content Type: image/png
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-content/plugins/elementskit-lite/widgets/init/assets/img/cross-out.svg
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-content\plugins\elementskit-lite\widgets\init\assets\img\cross-out.svg
+Content Type: image/svg+xml
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-content/plugins/elementskit-lite/widgets/init/assets/img/sort_asc.png
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-content\plugins\elementskit-lite\widgets\init\assets\img\sort_asc.png
+Content Type: image/png
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-content/plugins/elementskit-lite/widgets/init/assets/img/sort_asc_disabled.png
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-content\plugins\elementskit-lite\widgets\init\assets\img\sort_asc_disabled.png
+Content Type: image/png
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-content/plugins/elementskit-lite/widgets/init/assets/img/sort_desc.png
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-content\plugins\elementskit-lite\widgets\init\assets\img\sort_desc.png
+Content Type: image/png
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-content/plugins/elementskit-lite/widgets/init/assets/js/animate-circle.js?ver=2.8.5
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-content\plugins\elementskit-lite\widgets\init\assets\js\animate-circle.js
+Content Type: application/x-javascript
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-content/plugins/elementskit-lite/widgets/init/assets/js/elementor.js?ver=2.8.5
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-content\plugins\elementskit-lite\widgets\init\assets\js\elementor.js
+Content Type: application/x-javascript
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-content/plugins/elementskit-lite/widgets/init/assets/js/widget-scripts.js?ver=2.8.5
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-content\plugins\elementskit-lite\widgets\init\assets\js\widget-scripts.js
+Content Type: application/x-javascript
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-content/plugins/mask-form-elementor/js/jquery.mask.min.js?ver=1.0
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-content\plugins\mask-form-elementor\js\jquery.mask.min.js
+Content Type: application/x-javascript
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-content/plugins/mask-form-elementor/js/maskformelementor.js?ver=1.0
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-content\plugins\mask-form-elementor\js\maskformelementor.js
+Content Type: application/x-javascript
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-content/plugins/pro-elements/assets/css/frontend-lite.min.css?ver=3.6.4
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-content\plugins\pro-elements\assets\css\frontend-lite.min.css
+Content Type: text/css
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-content/plugins/pro-elements/assets/css/widget-animated-headline.min.css
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-content\plugins\pro-elements\assets\css\widget-animated-headline.min.css
+Content Type: text/css
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-content/plugins/pro-elements/assets/css/widget-nav-menu.min.css
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-content\plugins\pro-elements\assets\css\widget-nav-menu.min.css
+Content Type: text/css
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-content/plugins/pro-elements/assets/js/elements-handlers.min.js?ver=3.6.4
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-content\plugins\pro-elements\assets\js\elements-handlers.min.js
+Content Type: application/x-javascript
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-content/plugins/pro-elements/assets/js/frontend.min.js?ver=3.6.4
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-content\plugins\pro-elements\assets\js\frontend.min.js
+Content Type: application/x-javascript
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-content/plugins/pro-elements/assets/js/webpack-pro.runtime.min.js?ver=3.6.4
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-content\plugins\pro-elements\assets\js\webpack-pro.runtime.min.js
+Content Type: application/x-javascript
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-content/plugins/pro-elements/assets/lib/lottie/lottie.min.js?ver=5.6.6
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-content\plugins\pro-elements\assets\lib\lottie\lottie.min.js
+Content Type: application/x-javascript
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-content/plugins/pro-elements/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.0.1
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-content\plugins\pro-elements\assets\lib\smartmenus\jquery.smartmenus.min.js
+Content Type: application/x-javascript
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-content/plugins/quick-interest-slider/img/close.png
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-content\plugins\quick-interest-slider\img\close.png
+Content Type: image/png
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-content/plugins/quick-interest-slider/img/Info_icon.png
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-content\plugins\quick-interest-slider\img\Info_icon.png
+Content Type: image/png
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-content/plugins/quick-interest-slider/img/qis-arrow-down.png
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-content\plugins\quick-interest-slider\img\qis-arrow-down.png
+Content Type: image/png
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-content/plugins/quick-interest-slider/img/waiting.gif
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-content\plugins\quick-interest-slider\img\waiting.gif
+Content Type: image/gif
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-content/plugins/quick-interest-slider/slider.css?ver=6.1.1
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-content\plugins\quick-interest-slider\slider.css
+Content Type: text/css
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-content/plugins/quick-interest-slider/slider.js?ver=6.1.1
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-content\plugins\quick-interest-slider\slider.js
+Content Type: application/x-javascript
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-content/plugins/sticky-header-effects-for-elementor/assets/css/she-header-style.css?ver=1.5.5
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-content\plugins\sticky-header-effects-for-elementor\assets\css\she-header-style.css
+Content Type: text/css
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-content/plugins/sticky-header-effects-for-elementor/assets/js/she-header.js?ver=1.5.5
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-content\plugins\sticky-header-effects-for-elementor\assets\js\she-header.js
+Content Type: application/x-javascript
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-content/themes/generatepress/assets/css/main.min.css?ver=3.2.4
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-content\themes\generatepress\assets\css\main.min.css
+Content Type: text/css
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-content/themes/generatepress/assets/js/menu.min.js?ver=3.2.4
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-content\themes\generatepress\assets\js\menu.min.js
+Content Type: application/x-javascript
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-content/uploads/2022/05/bg-lp.webp
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-content\uploads\2022\05\bg-lp.webp
+Content Type: image/webp
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-content/uploads/2022/05/br_index.webp
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-content\uploads\2022\05\br_index.webp
+Content Type: image/webp
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-content/uploads/2022/05/credito-consignado-258x300.webp
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-content\uploads\2022\05\credito-consignado-258x300.webp
+Content Type: image/webp
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-content/uploads/2022/05/credito-consignado-inss-284x300.webp
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-content\uploads\2022\05\credito-consignado-inss-284x300.webp
+Content Type: image/webp
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-content/uploads/2022/05/credito-consignado-inss-768x811.webp
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-content\uploads\2022\05\credito-consignado-inss-768x811.webp
+Content Type: image/webp
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-content/uploads/2022/05/credito-consignado-inss.webp
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-content\uploads\2022\05\credito-consignado-inss.webp
+Content Type: image/webp
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-content/uploads/2022/05/credito-consignado.webp
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-content\uploads\2022\05\credito-consignado.webp
+Content Type: image/webp
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-content/uploads/2022/05/cropped-icone_hc-150x150.png
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-content\uploads\2022\05\cropped-icone_hc-150x150.png
+Content Type: image/png
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-content/uploads/2022/05/cropped-icone_hc-300x300.png
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-content\uploads\2022\05\cropped-icone_hc-300x300.png
+Content Type: image/png
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-content/uploads/2022/05/cropped-icone_hc.png
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-content\uploads\2022\05\cropped-icone_hc.png
+Content Type: image/png
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-content/uploads/2022/05/emprestimo-consignado-inss-150x150.webp
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-content\uploads\2022\05\emprestimo-consignado-inss-150x150.webp
+Content Type: image/webp
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-content/uploads/2022/05/emprestimo-consignado-inss-300x300.webp
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-content\uploads\2022\05\emprestimo-consignado-inss-300x300.webp
+Content Type: image/webp
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-content/uploads/2022/05/emprestimo-consignado-inss.webp
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-content\uploads\2022\05\emprestimo-consignado-inss.webp
+Content Type: image/webp
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-content/uploads/2022/05/Grafico-INSS-300x193.png
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-content\uploads\2022\05\Grafico-INSS-300x193.png
+Content Type: image/png
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-content/uploads/2022/05/Grafico-INSS-768x493.png
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-content\uploads\2022\05\Grafico-INSS-768x493.png
+Content Type: image/png
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-content/uploads/2022/05/Grafico-INSS.png
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-content\uploads\2022\05\Grafico-INSS.png
+Content Type: image/png
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-content/uploads/2022/05/icone_hc.webp
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-content\uploads\2022\05\icone_hc.webp
+Content Type: image/webp
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-content/uploads/2022/05/Logo-HC-300x93.webp
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-content\uploads\2022\05\Logo-HC-300x93.webp
+Content Type: image/webp
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-content/uploads/2022/05/Logo-HC.webp
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-content\uploads\2022\05\Logo-HC.webp
+Content Type: image/webp
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-content/uploads/2022/05/mini_icone_hc.webp
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-content\uploads\2022\05\mini_icone_hc.webp
+Content Type: image/webp
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-content/uploads/2022/05/Portabilidade-258x300.webp
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-content\uploads\2022\05\Portabilidade-258x300.webp
+Content Type: image/webp
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-content/uploads/2022/05/Portabilidade.webp
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-content\uploads\2022\05\Portabilidade.webp
+Content Type: image/webp
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-content/uploads/elementor/css/global.css?ver=1661864779
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-content\uploads\elementor\css\global.css
+Content Type: text/css
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-content/uploads/elementor/css/post-173.css?ver=1661864781
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-content\uploads\elementor\css\post-173.css
+Content Type: text/css
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-content/uploads/elementor/css/post-22.css?ver=1661864780
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-content\uploads\elementor\css\post-22.css
+Content Type: text/css
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-content/uploads/elementor/css/post-5.css?ver=1661864779
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-content\uploads\elementor\css\post-5.css
+Content Type: text/css
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-includes/css/classic-themes.min.css?ver=1
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-includes\css\classic-themes.min.css
+Content Type: text/css
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-includes/css/dist/block-library/style.min.css?ver=6.1.1
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-includes/js/dist/hooks.min.js?ver=4169d3cf8e8d95a3d6d5
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-includes\js\dist\hooks.min.js
+Content Type: application/x-javascript
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-includes/js/dist/i18n.min.js?ver=9e794f35a71bb98672ae
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-includes\js\dist\i18n.min.js
+Content Type: application/x-javascript
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-includes\js\dist\vendor\regenerator-runtime.min.js
+Content Type: application/x-javascript
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/x-javascript
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/x-javascript
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-includes/js/jquery/jquery.min.js?ver=3.6.1
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-includes\js\jquery\jquery.min.js
+Content Type: application/x-javascript
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/x-javascript
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.13.2
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-includes\js\jquery\ui\datepicker.min.js
+Content Type: application/x-javascript
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-includes/js/jquery/ui/effect.min.js?ver=1.13.2
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-includes\js\jquery\ui\effect.min.js
+Content Type: application/x-javascript
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-includes/wlwmanifest.xml
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-json/
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-json/oembed/1.0/embed?url=https:%2F%2Finss.hackeandoconsignado.com.br%2F
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-json/oembed/1.0/embed?url=https:%2F%2Finss.hackeandoconsignado.com.br%2F&format=xml
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://inss.hackeandoconsignado.com.br/wp-json/wp/v2/pages/22
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\wp-json\wp\v2\pages\22
+Content Type: application/json
+
+Uri: https://inss.hackeandoconsignado.com.br/xmlrpc.php?rsd
+File Name: C:\Users\cleit\OneDrive\Área de Trabalho\site\WebCopy\inss.hackeandoconsignado.com.br\xmlrpc.php
+Content Type: text/xml
+
